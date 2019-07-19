@@ -16,4 +16,4 @@ The notebooks included are too large to view in GitHub.  Links to the notebooks 
 
 Shane Stephenson – stephenson.shane.a@gmail.com
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/metriczulu/](https://github.com/metriczulu/)
