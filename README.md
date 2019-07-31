@@ -10,6 +10,7 @@ This repository will be updated as new notebooks are created.
 The notebooks included are too large to view in GitHub.  Links to the notebooks on notebook viewer are given below:
 
 [Exploratory Data Analysis](https://nbviewer.jupyter.org/github/metriczulu/open_source_personality_analysis/blob/master/notebooks/EDA.ipynb)
+<br/>
 [Gender Model Exploration](https://nbviewer.jupyter.org/github/metriczulu/open_source_personality_analysis/blob/master/notebooks/GenderModelExploration.ipynb)
 
 
