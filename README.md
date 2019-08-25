@@ -9,13 +9,13 @@ This repository will be updated as new notebooks are created.
 
 The notebooks included are too large to view in GitHub.  Links to the notebooks on notebook viewer are given below:
 
-[Exploratory Data Analysis](https://nbviewer.jupyter.org/github/metriczulu/open_source_personality_analysis/blob/master/notebooks/EDA.ipynb)
+[Exploratory Data Analysis](https://nbviewer.jupyter.org/github/metriczulu/open_source_personality_analysis/blob/master/notebooks/EDA.ipynb)<br/>
 EDA notebook to set the stage for model building
 <br/><br/>
-[Gender Model Exploration](https://nbviewer.jupyter.org/github/metriczulu/open_source_personality_analysis/blob/master/notebooks/GenderModelExploration.ipynb)
+[Gender Model Exploration](https://nbviewer.jupyter.org/github/metriczulu/open_source_personality_analysis/blob/master/notebooks/GenderModelExploration.ipynb)<br/>
 Exploration of various model types on the gender data
 <br/><br/>
-[Gender Ensemble Model](https://nbviewer.jupyter.org/github/metriczulu/open_source_personality_analysis/blob/master/notebooks/GenderEnsembleModel).ipynb
+[Gender Ensemble Model](https://nbviewer.jupyter.org/github/metriczulu/open_source_personality_analysis/blob/master/notebooks/GenderEnsembleModel.ipynb)<br/>
 Full ensemble model built to predict gender from answers to personality questions
 <br/><br/>
 
